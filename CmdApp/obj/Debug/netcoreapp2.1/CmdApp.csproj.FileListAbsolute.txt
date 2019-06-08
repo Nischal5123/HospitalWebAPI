@@ -1,0 +1,14 @@
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\bin\Debug\netcoreapp2.1\CmdApp.deps.json
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\bin\Debug\netcoreapp2.1\CmdApp.runtimeconfig.json
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\bin\Debug\netcoreapp2.1\CmdApp.runtimeconfig.dev.json
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\bin\Debug\netcoreapp2.1\CmdApp.dll
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\bin\Debug\netcoreapp2.1\CmdApp.pdb
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.csprojAssemblyReference.cache
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.csproj.CoreCompileInputs.cache
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.RazorAssemblyInfo.cache
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.RazorAssemblyInfo.cs
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.AssemblyInfoInputs.cache
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.AssemblyInfo.cs
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.RazorTargetAssemblyInfo.cache
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.dll
+C:\Users\Nischal Aryal\Desktop\Sharp\CmdApp\CmdApp\obj\Debug\netcoreapp2.1\CmdApp.pdb
